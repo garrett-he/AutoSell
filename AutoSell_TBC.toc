@@ -1,0 +1,7 @@
+## Interface: 20504
+## Title: AutoSell
+## Notes: Addon for World of Warcraft to sell junks to vendors automatically.
+## Author: Garrett HE <garrett.he@outlook.com>
+## Version: 0.1.0
+
+main.lua
